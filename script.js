@@ -8,4 +8,5 @@
 
 ScrollReveal().reveal('.profildescription,#expertise,#portfolio,#contact',{delay: 500});
 ScrollReveal().reveal('.photo',{delay: 500, origin: 'right'});
-ScrollReveal().reveal('.progress-bar',{delay: 500, origin: 'left'});
+ScrollReveal().reveal('.progress-bar', { delay: 500, origin: 'left' });
+//tato
